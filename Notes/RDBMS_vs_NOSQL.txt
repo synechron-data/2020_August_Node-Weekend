@@ -1,0 +1,19 @@
+RDBMS			MONGODB (NO SQL)
+
+Database		Database
+
+Table			Collection
+
+Rows			Documents
+
+Columns			Fields
+
+Join			Embededded Documents
+
+SQL Query		MongoDB API's
+
+JDBC / SqlClient	MongoDB / Monk
+
+Background Service	Background Service (mongod (CLI)) - Demon Service
+
+SQL Plus / SSMS		mongo (CLI) / Compass
